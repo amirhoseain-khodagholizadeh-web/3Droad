@@ -6,7 +6,7 @@
 
 **This is my mini project I wrote it by grid system**
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/grid-mini-project/blob/main/assets/images/Capture.PNG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/3Droad/blob/main/assets/stylesheet/Capture.JPG)
 
 
 
