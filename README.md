@@ -2,10 +2,6 @@
 
 **This is my 3D mini project just with html,css**
 
-![viewfinal](# Grid mini project 
-
-**This is my mini project I wrote it by grid system**
-
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/3Droad/blob/main/assets/stylesheet/Capture.JPG)
 
 
